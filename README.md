@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse Project
+# Hello Microverse Review
 
 > In this project, We set up a "Hello world" repository. No complex coding is required for this exercise. My goal here is to master all of the tools and best practices of HTML and CSS.
 
