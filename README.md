@@ -1,57 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Review
 
-> Description the project.
+> In this project, We set up a "Hello world" repository. No complex coding is required for this exercise. My goal here is to master all of the tools and best practices of HTML and CSS.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML and CSS
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+1. First clone the project $ git clone https://github.com/ahzia/HTML-Signup-Form
+2. Then open index.html in your browser
+3. [optional] You can even fork the project
 
-### Setup
+## Author:
 
-### Install
+👤 **Roland Manful Mweze**
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- GitHub: [Rolandm99](https://github.com/RolandM99)
+- Twitter: [@Manfulmwez](https://twitter.com/ManfulMwez)
+- LinkedIn: [Roland N. MWEZE](https://www.linkedin.com/in/roland-n-mweze-8b1045189/)
+  
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
